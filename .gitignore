@@ -1,0 +1,4 @@
+.next/
+.pnpm-store/
+node_modules/
+node_modules_pnpm_backup/
