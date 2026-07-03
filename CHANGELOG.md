@@ -106,4 +106,5 @@ Future planned enhancements include:
 ## Contributors
 
 - Sagar Rai
-- Gimit Contributors
+- Rishika Patidar
+- Atharva Dwivedi
